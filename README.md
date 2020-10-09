@@ -2,18 +2,16 @@
 Python SpamBOT is a simple bot that just spam, Faster than light!
 
 
-<hr>
-<h1>Requirements
-  <p>Python 3.7 or higher <p>
-<p>pyautogui<p>
-  <p>time<p>
+
+```
+Requirements
+Python 3.7 or higher
+pyautogui
+time
   
- <hr>
-<h1>How to use?
-  <p>Write your own texts in spam.txt<p>
-  <p>Open cmd/terminal and run py -3 bot.py / python3 bot.py<p>
-  
- <hr>
-<h1>That's It!
-  <p>Just point where you want to spam and That's it!<p>
-   <hr>
+How to use?
+Write your own texts in spam.txt
+Open cmd/terminal and run py -3 bot.py / python3 bot.py
+ 
+That's It!
+Just point where you want to spam and That's it!<p>
